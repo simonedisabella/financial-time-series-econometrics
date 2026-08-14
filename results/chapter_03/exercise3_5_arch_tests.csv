@@ -1,0 +1,4 @@
+"Test","Statistic","p_value","reject_H0_5pc"
+"Ljung-Box on squared demeaned, lag 6",28.115609154937,8.93670777269984e-05,TRUE
+"Ljung-Box on squared demeaned, lag 12",38.7611964495468,0.000115203237929795,TRUE
+"Engle LM ARCH test, lag 12",29.1430682709917,0.00375173092737413,TRUE

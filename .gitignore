@@ -1,0 +1,21 @@
+# Raw third-party data
+data/raw/
+*.xlsx
+*.xls
+
+# R / RStudio state
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Generated temporary files
+*.Rout
+*.Rout.save
+*.Rout.fail
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+"Series","Test","Estimate","t_stat","p_value","reject_H0_5pc"
+"Aaa","Skewness = 0",0.8566,17.3634,0,TRUE
+"Aaa","Excess kurtosis = 0",0.5775,5.8522,4.8500858884637e-09,TRUE
+"Baa","Skewness = 0",0.9298,18.8452,0,TRUE
+"Baa","Excess kurtosis = 0",0.76,7.7018,1.33226762955019e-14,TRUE

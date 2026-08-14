@@ -1,0 +1,4 @@
+"Test","Statistic","p_value","reject_H0_5pc"
+"Ljung-Box on AR(1) squared residuals, lag 6",21.6122285427027,0.00142315712704677,TRUE
+"Ljung-Box on AR(1) squared residuals, lag 12",32.4208327791372,0.00119116900762195,TRUE
+"Engle LM ARCH test, lag 12",27.2915782333469,0.00701365941000909,TRUE

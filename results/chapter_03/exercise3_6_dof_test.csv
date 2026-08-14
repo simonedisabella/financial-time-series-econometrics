@@ -1,0 +1,2 @@
+"Parameter","Estimate","Std_Error","H0_value","t_stat","p_value","reject_H0_5pc"
+"nu (Student-t degrees of freedom)",9.417664,2.96761,6,1.1517,0.24946261642694,FALSE

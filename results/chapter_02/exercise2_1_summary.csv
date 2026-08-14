@@ -1,0 +1,7 @@
+"Quantity","Value"
+"Forecast 1-step ahead (R_101 hat)",0.002
+"Forecast 2-step ahead (R_102 hat)",0
+"Std. error of 1-step forecast error",0.025
+"Std. error of 2-step forecast error",0.025495
+"Lag-1 autocorrelation (rho_1)",0.192308
+"Lag-2 autocorrelation (rho_2)",0

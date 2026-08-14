@@ -1,0 +1,9 @@
+"Quantity","Value"
+"Mean of r_t",0.0125
+"Variance of r_t",0.020833
+"Lag-1 autocorrelation rho_1",0
+"Lag-2 autocorrelation rho_2",0.2
+"Forecast 1-step ahead (r_101 hat)",0.014
+"Forecast 2-step ahead (r_102 hat)",0.008
+"Std. error of 1-step forecast error",0.141421
+"Std. error of 2-step forecast error",0.141421
