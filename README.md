@@ -1,6 +1,6 @@
 # Financial Time-Series Econometrics in R
 
-This is my individual **Topics in Econometrics** coursework, cleaned up for GitHub without changing the underlying assignment. It contains 20 exercises on returns, ARMA/ARIMA models, conditional volatility and market tail risk.
+This repository organises my individual **Topics in Econometrics** coursework for GitHub. It contains 20 exercises on returns, ARMA/ARIMA models, conditional volatility and market tail risk.
 
 The repository keeps the submitted figures and model choices, while [`AUDIT.md`](AUDIT.md) records the corrections identified during a later review.
 
