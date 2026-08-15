@@ -2,7 +2,7 @@
 
 This is my individual **Topics in Econometrics** coursework, cleaned up for GitHub without changing the underlying assignment. It contains 20 exercises on returns, ARMA/ARIMA models, conditional volatility and market tail risk.
 
-I kept the submitted figures and model choices, but I also documented several issues found during a later review. Those corrections are listed in [`AUDIT.md`](AUDIT.md) rather than being silently folded into the original results.
+The repository keeps the submitted figures and model choices, while [`AUDIT.md`](AUDIT.md) records the corrections identified during a later review.
 
 ## Coverage
 
@@ -37,7 +37,7 @@ The datasets used in the exercises cover equities, CRSP portfolios and indices, 
 <td width="50%" valign="top"><strong>Cisco conditional volatility</strong><br><img src="figures/chapter_07/exercise4_2_conditional_volatility.png" width="100%"></td>
 </tr></table>
 
-The complete archive contains **41 submitted PNG outputs**. I compared the coursework PNGs with the raster images embedded in the submitted PDF; all 41 matched at the decoded-pixel level. See [`figures/README.md`](figures/README.md) for the full index.
+The repository contains all **41 submitted PNG outputs**. They were checked against the raster images embedded in the submitted PDF and matched at the decoded-pixel level. See [`figures/README.md`](figures/README.md) for the full index.
 
 ## Repository layout
 
@@ -67,9 +67,7 @@ source("R/chapter_03_arch_garch/exercise3_6.R")
 
 The scripts write figures and result tables to the matching chapter folders.
 
-## Important audit points
-
-The main corrections are not cosmetic:
+## Corrections and technical notes
 
 - Exercise 1.5 reports **standard deviation**, as requested by the exercise, rather than the variance relabelling in the submitted report.
 - The Intel workbook supplied for Exercise 3.3 ends in **December 2003**, despite the exercise text naming 2008; the public code does not invent the missing years.
